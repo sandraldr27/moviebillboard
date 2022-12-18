@@ -74,7 +74,7 @@ It is suggested to use the latest version.<br>Do not close the terminal so that 
 </ul>
 
 
-<h2>7. Final Design</h2>
+<h2>6. Final Design</h2>
 
 <div style="heigth:auto; display:flex; flex-wrap:wrap; justify-content:center; padding:1rem">
 
@@ -82,7 +82,7 @@ It is suggested to use the latest version.<br>Do not close the terminal so that 
 
 </div>
 
-<h2>8. Stacks</h2>
+<h2>7. Stacks</h2>
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
@@ -94,7 +94,7 @@ It is suggested to use the latest version.<br>Do not close the terminal so that 
 <li>JSON Server</li>
 </ul>
 
-<h2>9. Methodology:</h2>
+<h2>8. Methodology:</h2>
 <ul>
 <li>Individual programming.</li>
 </ul>
