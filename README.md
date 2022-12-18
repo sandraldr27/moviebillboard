@@ -35,7 +35,7 @@
 (Version 8.19.2). Has been used in this project
 It is suggested to use the latest version.</li><br>
 <li>JSON server (For more information visit the NPMjs website at https://www.npmjs.com/package/json-server).</li>
-<p>To check the NODE version use the command <strong>node -v</strong> (Version v18.12.1). Has been used in this project. It is suggested to use the latest version.</p><br>
+<p>To check the NODE version use the command <strong>node -v</strong> (Version v18.12.1). Has been used in this project. It is suggested to use the latest version.</p>
 
 <h3><strong>Next steps after installing JSON server:</strong></h3>
 a) After installing the json server you have to change the directory with the <strong>movies/json</strong> command.<br>
