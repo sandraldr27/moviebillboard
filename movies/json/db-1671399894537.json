@@ -1,0 +1,292 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "caratula": "https://pics.filmaffinity.com/the_silence_of_the_lambs-767447992-large.jpg",
+      "titulo": "El silencio de los corderos (1991)",
+      "sinopsis": "El FBI busca a 'Buffalo Bill', un asesino en serie que mata a víctimas adolescentes, después de prepararlas minuciosamente y arrancarles la piel. Para poder atraparlo recurren a Clarice Starling, una brillante licenciada universitaria, experta en conductas psicópatas, que aspira a formar parte del FBI. Siguiendo las instrucciones de su jefe, Jack Crawford, Clarice visita la cárcel de alta seguridad donde el gobierno mantiene encerrado al Dr. Hannibal Lecter, antiguo psicoanalista y asesino, dotado de una inteligencia superior a la normal. Su misión será intentar sacarle información sobre los patrones de conducta del asesino que están buscando. Fuente: FILM AFFINITY",
+      "genero": "Intriga, crimen, thriller psicológico, policíaco, asesinos en serie, trastorno antisocial.",
+      "director": "Jonathan Demme"
+    },
+    {
+      "id": 2,
+      "caratula": "https://pics.filmaffinity.com/august_osage_county-437920312-large.jpg",
+      "titulo": "Agosto (2013)",
+      "sinopsis": "Los Weston viven en una gran mansión en las afueras de Pawhuska, en Oklahoma. La desaparición del padre en extrañas circunstancias hace que la familia se reúna y que todas sus miserias salgan a la luz. Adaptación al cine de la obra de teatro homónima ganadora de un Tony, que a su vez adapta una novela ganadora del Premio Pulitzer en 2008. Fuente: FILMAFFINITY",
+      "genero": "Drama, familia disfuncional, melodrama, comedia dramática, trastorno narcisista.",
+      "director": "John Wells"
+    },
+    {
+      "id": 3,
+      "caratula": "https://pics.filmaffinity.com/gaslight-301014640-large.jpg",
+      "titulo": "La luz que agoniza (1944)",
+      "sinopsis": "En plena época victoriana un pianista se casa con una bella joven, y juntos se van a vivir a casa de una tía de ella misteriosamente asesinada años atrás. La felicidad de la mujer termina cuando empieza a oír ruidos que la aterrorizan. Fuente: FILMAFFINITY",
+      "genero": "Intriga, drama, cine negro, drama psicológico, trastorno narcisista, psicopatía.",
+      "director": "Thorold Dickinson"
+    },
+    {
+      "id": 4,
+      "caratula": "https://pics.filmaffinity.com/psycho-805182707-large.jpg",
+      "titulo": "Psicosis I (1960)",
+      "sinopsis": "Marion Crane, una joven secretaria, tras cometer el robo de un dinero en su empresa, huye de la ciudad y, después de conducir durante horas, decide descansar en un pequeño y apartado motel de carretera regentado por un tímido joven, Norman Bates, que vive en la casa de al lado con su madre. Fuente: FILMAFFINITY",
+      "genero": "Terror, asesinos en serie, thriller psicológico, trastorno de personalidad múltiple.",
+      "director": "Alfred Hitchcock"
+    },
+    {
+      "id": 5,
+      "caratula": "https://pics.filmaffinity.com/psycho_ii-457453870-large.jpg",
+      "titulo": "Psicosis II (1983)",
+      "sinopsis": "Después de veintidós años encerrado en un psiquiátrico y, aparentemente curado, Norman Bates (Anthony Perkins) queda en libertad pese a las protestas de Lila, la hermana de Marion Crane (Vera Miles) y viuda de Sam Loomis, el antiguo novio de su hermana. Acompañado por su psiquiatra, el doctor Raymond, Norman regresa al motel Bates y se hace cargo de él. Tras hacer amistad con una joven, empiezan a ocurrir hechos extraños y crímenes inexplicables. Fuente: FILMAFFINITY",
+      "genero": "Terror, thriller, slasher, thriller psicológico trastorno de personalidad múltiple.",
+      "director": "Richard Franklin"
+    },
+    {
+      "id": 6,
+      "caratula": "https://es.web.img3.acsta.net/pictures/210/042/21004216_20130508105716716.jpg",
+      "titulo": "Psicosis III (1986)",
+      "sinopsis": "Ha pasado el tiempo, el motel Bates vuelve a estar abierto al público y la señora Spool, la mujer que se hacía pasar por la madre de Norman, ha desaparecido. Fuente: FILMAFFINITY",
+      "genero": "Terror, thriller, slasher, thriller psicológico, trastorno de personalidad múltiple.",
+      "director": "Anthony Perkins"
+    },
+    {
+      "id": 7,
+      "caratula": "https://pics.filmaffinity.com/psycho_iv_the_beginning_tv-931584844-large.jpg",
+      "titulo": "Psicosis IV (1990)",
+      "sinopsis": "Durante un talk show de radio, un desconocido llama y comienza a recordar pasajes de su torturada niñez y adolescencia, sometido bajo su tiránica madre. ¿Es posible que se trate del famoso Norman Bates, recién dado de alta en un sanatorio? Al confirmarse esta sospecha, los aterrados locutores de la radio escuchan que Norman, 'para salvar al mundo', volverá al Motel Bates donde, una vez más, volverá a derramar sangre inocente. Fuente: FILMAFFINITY",
+      "genero": "Terror, slasher, thriller psicológico, trastorno de personalidad múltiple.",
+      "director": "Mick Garris"
+    },
+    {
+      "id": 8,
+      "caratula": "https://pics.filmaffinity.com/the_shining-453129380-large.jpg",
+      "titulo": "El resplandor (1980)",
+      "sinopsis": "Jack Torrance se traslada con su mujer y su hijo de siete años al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento de las instalaciones durante la temporada invernal, época en la que permanece cerrado y aislado por la nieve. Su objetivo es encontrar paz y sosiego para escribir una novela. Sin embargo, poco después de su llegada al hotel, al mismo tiempo que Jack empieza a padecer inquietantes trastornos de personalidad, se suceden extraños y espeluznantes fenómenos paranormales. Fuente: FILMAFFINITY",
+      "genero": "Terror, sobrenatural, fantasmas, drama psicológico, bipolaridad, esquizofrenia.",
+      "director": "Stanley Kubrick"
+    },
+    {
+      "id": 9,
+      "caratula": "https://pics.filmaffinity.com/the_bad_seed-321771552-large.jpg",
+      "titulo": "La mala semilla (1956)",
+      "sinopsis": "Rhoda es una niña de ocho años, perversa, cínica y muy inteligente. Christine, su madre, que sospecha que ha asesinado a un compañero de colegio, acaba relacionando este hecho con otros trágicos accidentes y piensa que la niña puede ser responsable de todos. Fuente: FILMAFFINITY",
+      "genero": "Drama, terror, thriller, thriller psicológico, familia, melodrama, psicopatía infantil.",
+      "director": "Mervyn LeRoy"
+    },
+    {
+      "id": 10,
+      "caratula": "https://es.web.img3.acsta.net/pictures/14/03/26/13/26/223510.jpg",
+      "titulo": "La naranja mecánica (1971)",
+      "sinopsis": "Gran Bretaña, en un futuro indeterminado. Alex (Malcolm McDowell) es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial. Fuente: FILMAFFINITY",
+      "genero": "Drama, crimen, distopía, thriller psicológico, bandas callejeras, trastorno antisocial.",
+      "director": "Stanley Kubrick"
+    },
+    {
+      "id": 11,
+      "caratula": "https://pics.filmaffinity.com/joker-790658206-large.jpg",
+      "titulo": "Joker (2019)",
+      "sinopsis": "Arthur Fleck (Phoenix) vive en Gotham con su madre, y su única motivación en la vida es hacer reír a la gente. Actúa haciendo de payaso en pequeños trabajos, pero tiene problemas mentales que hacen que la gente le vea como un bicho raro. Su gran sueño es actuar como cómico delante del público, pero una serie de trágicos acontecimientos le hará ir incrementando su ira contra una sociedad que le ignora. Fuente: FILMAFFINITY",
+      "genero": "Drama psicológico, thriller psicológico, crimen, esquizofrenia, psicosis.",
+      "director": "Todd Phillips"
+    },
+    {
+      "id": 12,
+      "caratula": "https://pics.filmaffinity.com/the_girl_on_the_train-798601258-large.jpg",
+      "titulo": "La chica del tren (2016)",
+      "sinopsis": "Rachel (Emily Blunt) es una mujer devastada por su reciente divorcio que dedica cada mañana de camino a su trabajo a fantasear sobre la vida de una pareja aparentemente perfecta que vive en una casa por la que su tren pasa cada día. Pero una mañana Rachel es testigo desde la ventana del tren de un impactante suceso y se ve involucrada en el misterio que ella misma revela... Adaptación del best seller homónimo de Paula Hawkins. Fuente: FILMAFFINITY",
+      "genero": "Drama, drama psicológico, thriller psicológico, intriga, alcoholismo, trastorno antisocial.",
+      "director": "Tate Taylor"
+    },
+    {
+      "id": 13,
+      "caratula": "https://pics.filmaffinity.com/black_swan-861293346-mmed.jpg",
+      "titulo": "Cisne Negro (2010)",
+      "sinopsis": "Nina (Natalie Portman), una brillante bailarina que forma parte de una compañía de ballet de Nueva York, vive completamente absorbida por la danza. La presión de su controladora madre (Barbara Hershey), la rivalidad con su compañera Lily (Mila Kunis) y las exigencias del severo director (Vincent Cassel) se irán incrementando a medida que se acerca el día del estreno. Esta tensión provoca en Nina un agotamiento nervioso y una confusión mental que la incapacitan para distinguir entre realidad y ficción. Fuente: FILMAFFINITY",
+      "genero": "Drama, drama psicológico, thriller psicológico, TCA, TLP, Esquizofrenia.",
+      "director": "Darren Aronofsky"
+    },
+    {
+      "id": 14,
+      "caratula": "https://pics.filmaffinity.com/vertigo-154050178-mmed.jpg",
+      "titulo": "Vértigo (1958)",
+      "sinopsis": "Scottie Fergusson (James Stewart) es un detective de la policía de San Francisco que padece de vértigo. Cuando un compañero cae al vacío desde una cornisa mientras persiguen a un delincuente, Scottie decide retirarse. Gavin Elster (Tom Helmore), un viejo amigo del colegio, lo contrata para un caso aparentemente muy simple: que vigile a su esposa Madeleine (Kim Novak), una bella mujer que está obsesionada con su pasado. Fuente: FILMAFFINITY",
+      "genero": "Intriga, drama psicológico, thriller psicológico, acrofobia, trastorno obsesivo compulsivo (TOC).",
+      "director": "Alfred Hitchcock"
+    },
+    {
+      "id": 15,
+      "caratula": "https://pics.filmaffinity.com/the_prince_of_tides-579669069-mmed.jpg",
+      "titulo": "El príncipe de las mareas (1991)",
+      "sinopsis": "Tras una infancia traumática que no ha conseguido olvidar, Tom Wingo (Nick Nolte), un desilusionado y algo rudo entrenador deportivo sureño, se ve obligado a revivir su pasado cuando viaja a Nueva York a petición de la doctora Susan Lowenstein (Barbra Streisand), la sofisticada psiquiatra de la alta sociedad de Manhattan que atiende a la hermana de Tom después de varios intentos de suicidio. Fuente: FILMAFFINITY",
+      "genero": "Drama, drama psicológico, romance, trastorno de estrés post traumático.",
+      "director": "Barbra Streisand"
+    },
+    {
+      "id": 16,
+      "caratula": "https://pics.filmaffinity.com/take_shelter-692711268-mmed.jpg",
+      "titulo": "Atormentado (2011)",
+      "sinopsis": "Curtis LaForche (Michael Shannon) vive en un pequeño pueblo de Ohio con su mujer (Jessica Chastain) y su hija, una niña sorda de seis años. Un día, empieza a sufrir alucinaciones apocalípticas en forma de sueños. Sin saber si sus pesadillas son fruto de una enfermedad mental o verdaderas premoniciones, Curtis se esconde en su seguro refugio antitornados para afrontar una eventual tormenta apocalíptica. Fuente: FILMAFFINITY",
+      "genero": "Drama, drama familiar, drama psicológico, trastorno paranoide de la personalidad.",
+      "director": "Jeff Nichols"
+    },
+    {
+      "id": 17,
+      "caratula": "https://pics.filmaffinity.com/das_experiment-239537196-mmed.jpg",
+      "titulo": "El experimento (2010)",
+      "sinopsis": "Llegaron a una cárcel ficticia buscando una forma rápida de ganar dinero fácil. Ahora sólo buscan la manera de sobrevivir. Todo empezó como un experimento científico protagonizado durante dos semanas por veinte hombres que cobrarían por su colaboración 4.000 marcos. El proyecto consistía en estudiar el comportamiento agresivo en un ambiente carcelario simulado. A los participantes se les asigna el papel de guardianes (ocho) o prisioneros (doce). Los prisioneros deben obedecer las órdenes, y los guardias deben mantener el orden. Pero dar a un hombre un poco de poder puede tener consecuencias insospechadas. Fuente: FILMAFFINITY",
+      "genero": "Drama, intriga, drama carcelario, asado en hechos reales, psicología social.",
+      "director": "Jeff Nichols"
+    },
+    {
+      "id": 18,
+      "caratula": "https://pics.filmaffinity.com/funny_games-671259426-mmed.jpg",
+      "titulo": "Juegos Divertidos (1997)",
+      "sinopsis": "Anna, Georg y su hijo Georgie van a pasar las vacaciones a su bonita casa a orillas de un lago. Sus vecinos Fred y Eva han llegado antes que ellos. Las dos parejas quedan para jugar al golf al día siguiente. Mientras padre e hijo preparan el velero, Anna prepara la cena. De repente, Peter, un joven muy educado que se aloja en casa de los vecinos, se presenta para pedir que le presten algunos huevos porque a Eva no le queda ninguno. De repente, Anna se pregunta cómo ha podido entrar en la casa. El joven le explica que Fred le ha enseñado un agujero que hay en la cerca. Fuente: FILMAFFINITY",
+      "genero": "Thriller psicológico, secuestros, desapariciones, asesinos en serie, psicopatía.",
+      "director": "Michael Haneke"
+    },
+    {
+      "id": 19,
+      "caratula": "https://pics.filmaffinity.com/as_good_as_it_gets-781799951-mmed.jpg",
+      "titulo": "Mejor: Imposible (1997)",
+      "sinopsis": "Melvin Udall (Jack Nicholson), un escritor maniático que padece un trastorno obsesivo-compulsivo, es el ser más desagradable y desagradecido que uno pueda tener como vecino en Nueva York. Entre sus rutinas está la de comer todos los días en una cafetería, donde le sirve Carol Connelly (Helen Hunt), camarera y madre soltera. Simon Nye (Greg Kinnear), un artista gay que vive en el apartamento contiguo al de Melvin, sufre constantemente su homofobia. De repente, un buen día, Melvin tiene que hacerse cargo de un pequeño perro aunque detesta los animales. La compañía del animal contribuirá a suavizar su carácter. Fuente: FILMAFFINITY",
+      "genero": "Comedia, drama, romance, trastorno obsesivo compulsivo, trastorno de ansiedad.",
+      "director": "James L. Brooks"
+    },
+    {
+      "id": 20,
+      "caratula": "https://pics.filmaffinity.com/the_truman_show-130091557-mmed.jpg",
+      "titulo": "El Show de Truman (1998)",
+      "sinopsis": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, de repente, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo. Todos sus amigos son actores, toda su ciudad es un plató, toda su vida está siendo filmada y emitida como el reality más ambicioso de la historia.  Fuente: FILMAFFINITY",
+      "genero": "Comedia, drama, comedia dramática, sátira, delirio del show de Truman.",
+      "director": "Peter Weir"
+    },
+    {
+      "id": 21,
+      "caratula": "https://pics.filmaffinity.com/i_am_sam-376063470-mmed.jpg",
+      "titulo": "Yo soy Sam (2001)",
+      "sinopsis": "Sam Dawson (Sean Penn) es un deficiente mental que deberá luchar por conservar la custodia de su pequeña hija, ya que el Estado considera que no está capacitado para hacerse cargo de su educación. De su defensa se encargará una prestigiosa abogada, Rita Harrison (Michelle Pfeiffer), cuyo desinterés y frialdad inicial cambiarán tras conocer a Sam, descubrir el amor que siente por su hija y comprobar su determinación por defender sus derechos como padre. Fuente: FILMAFFINITY",
+      "genero": "Drama, discapacidad, familia, drama judicial, trastorno del espectro autista.",
+      "director": "Jessie Nelson"
+    },
+    {
+      "id": 22,
+      "caratula": "https://pics.filmaffinity.com/rain_man-706309878-mmed.jpg",
+      "titulo": "Rain Man (1988)",
+      "sinopsis": "Charlie Babbitt (Tom Cruise), un joven egoísta que espera heredar la fortuna de su difunto padre, se entera de que el beneficiario es su hermano Raymond (Dustin Hoffman), un autista al que no conoce, porque ha vivido siempre recluido en un centro especial. Ambos harán un largo viaje a través de los Estados Unidos. Al principio, a Charlie, el extravagante comportamiento de su hermano lo irrita y lo desconcierta, pero, poco a poco, aprenderá a conocerlo y a quererlo. Fuente: FILMAFFINITY",
+      "genero": "Drama, drama familiar, discapacidad, trastorno del espectro autista.",
+      "director": "Barry Levinson"
+    },
+    {
+      "id": 23,
+      "caratula": "https://pics.filmaffinity.com/it_s_kind_of_a_funny_story-293583722-mmed.jpg",
+      "titulo": "Una historia casi divertida (2010)",
+      "sinopsis": "A causa de una depresión, Craig (Keir Gilchrist), un adolescente de 16 años, es ingresado en un centro psiquiátrico. Una vez allí, resulta que la sala para jóvenes está cerrada, de modo que no tiene más remedio que acudir a la sala de adultos. Bobby (Zach Galifianakis), uno de los pacientes, pronto se convierte en su mentor y protector. Contando con su apoyo, Craig podrá conocer a un buen número de personas con diversos problemas, descubrirá sus talentos ocultos y hará buenas migas con Noelle (Emma Roberts), una muchacha de su misma edad. Fuente: FILMAFFINITY",
+      "genero": "Drama, comedia, comedia dramática, trastorno de depresión severa.",
+      "director": "Barry Levinson"
+    },
+    {
+      "id": 24,
+      "caratula": "https://pics.filmaffinity.com/memento-230609861-mmed.jpg",
+      "titulo": "Memento (2000)",
+      "sinopsis": "La memoria de Leonard, un investigador de una agencia de seguros, está irreversiblemente dañada debido a un golpe sufrido en la cabeza cuando intentaba evitar el asesinato de su mujer: éste es el último hecho que recuerda del pasado. La memoria reciente la ha perdido: los hechos cotidianos desaparecen de su mente en unos minutos. Así pues, para investigar e intentar vengar el asesinato de su esposa tiene que recurrir a la ayuda de una cámara instantánea y a las notas tatuadas en su cuerpo.  Fuente: FILMAFFINITY",
+      "genero": "Thriller, intriga, crimen, venganza, síndrome de amnesia retrógrada.",
+      "director": "Christopher Nolan"
+    },
+    {
+      "id": 25,
+      "caratula": "https://i.pinimg.com/originals/31/2d/db/312ddb200921aed357b1bc7cb0ea2051.jpg",
+      "titulo": "Mi amigo Dahmer (2017)",
+      "sinopsis": "Jeff Dahmer es un adolescente fuera de lugar, lidiando con la escuela secundaria y con una vida familiar ruinosa. Recoge animales atropellados, se fija en un hombre que corre por su barrio, y se enfrenta a su inestable madre y su bien intencionado padre. Pronto comienza a llamar la atención en el instituto, para encajar, y sus gamberradas estúpidas ganan adeptos hasta el punto de crearse una banda llamada 'The Dahmer Fan Club', dirigida por Derf Backderf . Pero esta camaradería no puede ocultar su creciente depravación. Al acercarse a la graduación, Jeff se mueve en espiral hacia la pérdida de control, acercándose cada vez más a la locura. Fuente: FILMAFFINITY",
+      "genero": "Drama, terror, crimen, asesinos en serie, TLP, trastorno esquizotípico, psicosis.",
+      "director": "Marc Meyers"
+    },
+    {
+      "id": 26,
+      "caratula": "https://pics.filmaffinity.com/no_country_for_old_men-150566696-mmed.jpg",
+      "titulo": "No es país para viejos (2007)",
+      "sinopsis": "En 1980, en la frontera de Texas, cerca de río Grande, Llewelyn Moss (Josh Brolin), un cazador de antílopes, descubre a unos hombres acribillados a balazos, un cargamento de heroína y dos millones de dólares en efectivo. Fuente: FILMAFFINITY",
+      "genero": "Drama, thriller, crimen, asesinos en serie, psicopatía, trastorno antisocial.",
+      "director": "Joel Coen, Ethan Coen"
+    },
+    {
+      "id": 27,
+      "caratula": "https://i.pinimg.com/736x/c1/6b/df/c16bdfb69b288864400285158e443e2f--quinto-aniversario-informa.jpg",
+      "titulo": "Perdida (2014)",
+      "sinopsis": "El día de su quinto aniversario de boda, Nick Dunne (Ben Affleck) informa que su esposa Amy (Rosamund Pike) ha desaparecido misteriosamente. Pero pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa... Adaptación del best-seller 'Perdida', de Gillian Flynn. Fuente: FILMAFFINITY",
+      "genero": "Intriga, thriller, secuestros, desapariciones, thriller psicológico, psicopatía.",
+      "director": "David Fincher"
+    },
+    {
+      "id": 28,
+      "caratula": "https://pics.filmaffinity.com/the_house_that_jack_built-940554942-mmed.jpg",
+      "titulo": "La casa de Jack (2018)",
+      "sinopsis": "Estados Unidos, década de 1970. Seguimos a Jack durante un período de 12 años, descubriendo los asesinatos que marcarán su evolución como asesino en serie. La historia se vive desde el punto de vista de Jack, quien considera que cada uno de sus asesinatos es una obra de arte en sí misma. Fuente: FILMAFFINITY",
+      "genero": "Thriller, drama, crimen, asesinos en serie, thriller psicológico, psicopatía.",
+      "director": "Lars von Trier"
+    },
+    {
+      "id": 29,
+      "caratula": "https://pics.filmaffinity.com/split-172094905-mmed.jpg",
+      "titulo": "Múltiple (2016)",
+      "sinopsis": "A pesar de que Kevin (James McAvoy) le ha demostrado a su psiquiatra de confianza, la Dra. Fletcher (Betty Buckley), que posee 23 personalidades diferentes, aún queda una por emerger, decidida a dominar a todas las demás. Obligado a raptar a tres chicas adolescentes encabezadas por la decidida y observadora Casey (Anya Taylor-Joy), Kevin lucha por sobrevivir contra todas sus personalidades y la gente que le rodea, a medida que las paredes de sus compartimentos mentales se derrumban. Fuente: FILMAFFINITY",
+      "genero": "Intriga, thriller psicológico, desapariciones, trastorno de identidad disociativo.",
+      "director": "M. Night Shyamalan"
+    },
+    {
+      "id": 30,
+      "caratula": "https://th.bing.com/th/id/R.a5a886a8cb481bcdce1d360eb049665f?rik=ceOBjY8VRs1%2b8g&pid=ImgRaw&r=0",
+      "titulo": "La viuda (2018)",
+      "sinopsis": "Frances es una dulce e ingenua joven que, tras la muerte de su madre, se muda a Manhattan. Cuando encuentra en el metro un bolso extraviado, decide entregárselo a su legítima dueña, Greta, una pianista viuda con una desesperada necesidad de compañía. Rápidamente se convierten en amigas, pero su amistad cambia cuando se descubren las siniestras intenciones de Greta. Fuente: FILMAFFINITY",
+      "genero": "Thriller, drama, thriller psicológico, psicopatía, síndrome de Münchhausen.",
+      "director": "Neil Jordan"
+    },
+    {
+      "id": 31,
+      "caratula": "https://pics.filmaffinity.com/american_psycho-503776720-mmed.jpg",
+      "titulo": "American Psycho (2000)",
+      "sinopsis": "En un mundo moralmente plano en el que la ropa tiene más sentido que la piel, Patrick Bateman es un espécimen soberbiamente elaborado que cumple todos los requisitos de Master del Universo, desde el diseño de su vestuario hasta el de sus productos químicos. Es prácticamente perfecto, como casi todos en su mundo e intenta desesperadamente encajar en él. Cuando más intenta ser como cualquier otro hombre adinerado de Wall Street, más anónimo se vuelve y menos control tiene sobre sus terribles instintos y su insaciable sed de sangre, que lo arrastra a una vorágine en la que los objetos valen más que el cuerpo y el alma de una persona. Fuente: FILMAFFINITY",
+      "genero": "Drama, terror, crimen, ssesinos en serie, drama psicológico, psicopatía.",
+      "director": "Mary Harron"
+    },
+    {
+      "id": 32,
+      "caratula": "https://pics.filmaffinity.com/the_dark_knight-102763119-mmed.jpg",
+      "titulo": "El caballero oscuro (2008)",
+      "sinopsis": "Batman/Bruce Wayne (Christian Bale) regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon (Gary Oldman) y del Fiscal del Distrito Harvey Dent (Aaron Eckhart), Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker (Heath Ledger), un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos. Fuente: FILMAFFINITY",
+      "genero": "Thriller, acción, trastorno de duelo complicado, trastorno de estrés post traumático.",
+      "director": "Christopher Nolan"
+    },
+    {
+      "id": 33,
+      "caratula": "https://pics.filmaffinity.com/fatal_attraction-663479256-mmed.jpg",
+      "titulo": "Atracción Fatal (1987)",
+      "sinopsis": "Dan Gallagher lleva una vida perfecta: tiene una esposa maravillosa, una hija encantadora y un buen trabajo. En una fiesta conoce a Alex, una atractiva mujer que lo seduce. Pero para Dan se trata únicamente de una aventura ocasional. Alex, en cambio, cuando él le anuncia el fin de la relación reacciona con una violencia inaudita. No acepta ser rechazada y sus sentimientos se convierten en una obsesión enfermiza y peligrosa. Fuente: FILMAFFINITY",
+      "genero": "Thriller, intriga, thriller psicológico, trastorno depresivo mayor, TLP.",
+      "director": "Adrian Lyne"
+    },
+    {
+      "id": 34,
+      "caratula": "https://pics.filmaffinity.com/the_hand_that_rocks_the_cradle-883293947-mmed.jpg",
+      "titulo": "La mano que mece la cuna (1992)",
+      "sinopsis": "La mano que mece la cuna es la mano que domina el mundo. Tras perder a su hijo y ver arruinada la carrera de su marido, una mujer (Rebecca de Mornay) decide vengarse de Claire Bartel, a la que acusa de toda sus desgracias. Para ello consigue introducirse en su casa como niñera. Fuente: FILMAFFINITY",
+      "genero": "Intriga, thriller, drama, drama psicológico, thriller psicológico, trastorno antisocial.",
+      "director": "Curtis Hanson"
+    },
+    {
+      "id": 35,
+      "caratula": "https://pics.filmaffinity.com/misery-606502285-mmed.jpg",
+      "titulo": "Misery (1990)",
+      "sinopsis": "Un escritor llamado Paul Sheldon (James Caan) lleva años malgastando su talento con unas románticas historias, de gran éxito comercial, cuya protagonista es una mujer llamada Misery. Decidido a acabar con esta situación, mata al personaje y se refugia en Colorado para escribir una novela seria. Terminado su trabajo, emprende el regreso, pero en una carretera de montaña, pierde el control de su coche y sufre un grave accidente. Annie Wilkes (Kathy Bates), una brusca e impetuosa mujer, gran admiradora suya, lo rescata, se lo lleva a su casa y lo cuida con esmero. Obsesionada con el personaje de Misery, retiene a Sheldon para obligarlo a escribir una nueva historia en la que resucite al personaje. Fuente: FILMAFFINITY",
+      "genero": "Terror, drama, drama psicológico, trastorno de bipolaridad, obsesivo compulsivo y esquizotipico.",
+      "director": "Rob Reiner"
+    },
+    {
+      "id": 36,
+      "caratula": "https://pics.filmaffinity.com/das_parfum_die_geschichte_eines_morders-926668668-mmed.jpg",
+      "titulo": "El Perfume (2006)",
+      "sinopsis": "Francia, siglo XVIII. Adaptación del famoso best-seller de Patrick Süskind. Jean Baptiste Grenouille nació en medio del hedor de los restos de pescado de un mercado y fue abandonado por su madre en la basura. Las autoridades se hicieron cargo de él y lo mandaron a un hospicio. Creció en un ambiente hostil; nadie le quería, porque había en él algo excepcional: carecía por completo de olor. Estaba, sin embargo, dotado de un extraordinario sentido del olfato. A los veinte años, después de trabajar en una curtiduría, consiguió trabajo en casa del perfumista Bandini, que le enseñó a destilar esencias. Pero él vivía obsesionado con la idea de atrapar otros olores: el olor del cristal, del cobre, pero, sobre todo, el olor de algunas mujeres. Fuente: FILMAFFINITY",
+      "genero": "Thriller, crimen, trastorno obsesivo-compulsivo, trastorno esquizoafectivo, psicosis.",
+      "director": "Tom Tykwer"
+    }
+  ]
+}

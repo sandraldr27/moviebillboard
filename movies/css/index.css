@@ -1,0 +1,215 @@
+** {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+body {  
+    margin: 0 auto;
+    max-width: 1170px;
+    min-height: 100%;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    }
+
+#principalContainer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+#containerHeader {
+    width: 100%;
+    align-items: center;
+    background-color: black;
+    justify-content: center;
+    }
+    
+img {
+    align-items: center;
+    width: 220px;
+    height: 220px;
+    }
+
+#principalTitle  {
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 45px;
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgba(220, 57, 231, 0.849);
+    text-align: center;
+}
+
+#headerSeparation {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    height: 6px;
+    }
+
+#psychologicalMoviesSection { 
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    } 
+
+.card { 
+    width: 325px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    padding-left: 10px;
+    margin-right: 25px;
+    padding-right: 10px;
+    margin-top: 40px;
+    background-color: white;
+    padding: 3px;
+    border:rgba(84, 2, 100, 0.849) solid;
+}
+
+.imageCard {  
+    width: 100%;
+    height: 360px;
+    /*border-radius: 5px 5px 5px 5px;*/
+    border:rgba(84, 2, 100, 0.849) solid;
+}
+
+.card-body {
+    width: 100%;
+    background-color: rgba(84, 2, 100, 0.849);
+    /*border-radius: 5px 5px 5px 5px;*/
+}
+
+.movieTitle {  
+    text-align:left;
+    font-size: 16px; 
+    font-weight: bold;
+    color: white;
+    text-align: justify;
+}
+
+.genreTitle {
+    text-align: justify;
+    font-size: 16px; 
+    color: white;
+    font-weight: bold;
+}
+
+.directorTitle {
+    text-align: justify;
+    font-size: 16px; 
+    color: white;
+    font-weight: bold;
+}
+
+.synopsisTitle {
+    text-align: justify;
+    font-size: 16px; 
+    font-weight: bold;
+    color: white; 
+}
+
+#scrollSynopsis {
+    height: 150px;
+	width: 100%;
+	border: 1px solid rgb(84, 2, 100, 0.849);
+	background: #42104b;
+	overflow-y: scroll; 
+    scroll-behavior: auto;
+    text-align: justify;
+    justify-content: center;
+    }
+
+#scrollSynopsis::-webkit-scrollbar {
+    background-color: white;
+    -webkit-appearance: none;
+    width: 12px;
+}
+
+#scrollSynopsis::-webkit-scrollbar:vertical {
+    width:10px;
+}
+
+#scrollSynopsis::-webkit-scrollbar-button:increment,.contenedor::-webkit-scrollbar-button {
+    display: none;
+} 
+
+#scrollSynopsis::-webkit-scrollbar:horizontal {
+    height: 10px;
+}
+
+#scrollSynopsis::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 20px;
+    border: 2px solid #f1f2f3;
+}
+
+#scrollSynopsis::-webkit-scrollbar-track {
+    border-radius: 10px;  
+}
+
+/*#scrollSynopsis::-webkit-scrollbar-thumb {
+    background-color: black;
+    
+}*/
+
+p {
+    text-align: justify;
+    font-size: 16px;
+    color: white;
+}
+
+.synopsisMovie {
+    text-align: justify;
+    font-size: 15px;
+    color: white;
+}
+
+#footerSeparation {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    height: 6px;
+    margin-bottom: 50px;
+    }
+
+#containerDataFooter {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    }
+
+.infoFooter {
+    width: 100%;
+    color:rgba(220, 57, 231, 0.849);
+    text-align: center;
+    font-size: 15px;
+    }
+
+#containerSocialIcons {
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;;
+}
+
+
+
+
+
+
+
+
+
+
+

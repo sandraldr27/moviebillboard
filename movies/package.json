@@ -1,0 +1,13 @@
+{
+  "name": "moviebillboard",
+  "version": "1.0.0",
+  "description": "moviebillboard",
+  "main": "index.html",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "npm": "^8.19.2",
+    "nodejs": "^18.12.1"
+  },
+  "author": "Sandra Leon Del Risco",
+  "license": "ISC"
+}
