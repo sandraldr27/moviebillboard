@@ -25,7 +25,7 @@
 </ul>
 
 
-<h2>4. Project Demo & Preview</h2>
+<h2>4. Project Preview</h2>
 <p>For live version of the project, run the code with Live Server in visual studio code.<br><strong>Warning:</strong> The design and color of the scroll may vary from one browser to another, it is recommended to have the latest version installed.</br></p>
 <ol>
 <li>In the GitHub repository https://github.com/sandraldr27/moviebillboard, go to the <strong>code tab</strong> and copy the <strong>HTTPS</strong> link</li>
